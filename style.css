@@ -318,7 +318,7 @@ footer p {
   } */
   
  
-/* style max-width 992px */
+/* style min-width 768px and max-width 1092px */
 
   @media screen and (min-width: 768px) and (max-width: 1092px) {
     
@@ -504,7 +504,7 @@ footer p {
   }
 
 
-/* style max-width 768px */
+/* style min-width 576px and max-width 768px */
   @media screen and (min-width: 576px) and (max-width: 768px) {
        
 
